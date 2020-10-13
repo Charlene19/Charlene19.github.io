@@ -27,3 +27,4 @@
     "resume-cli": "^0.4.19"
   }
 }
+"publishConfig": { "registry": "https://npm.pkg.github.com/" }
