@@ -38,10 +38,10 @@
     <img src="https://github.com/Charlene19/secondBrain/blob/master/static/img/sdbn.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Second Brain</h3>
+  <h3 align="center">CV - Portfolio</h3>
 
   <p align="center">
-    Un recueil de notes.
+    CV en ligne
     <br />
     <a href="https://github.com/Charlene19/Charlene19.github.io"><strong>Explore the docs »</strong></a>
     <br />
